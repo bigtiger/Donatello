@@ -9,7 +9,7 @@ using Raphael.js in my Node Knockout team project.
 
 ### Goals
 
-Raphael aims to provide a familiar drawing API similar to Raphael and other drawing
+Donatello aims to provide a familiar drawing API similar to Raphael and other drawing
 libraries. Since all rendering is done using HTML and CSS, and a lot
 of effort is going toward optimizing CSS using graphics acceleration
 in the major browsers, there is the opportunity to do very efficient
